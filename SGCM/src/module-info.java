@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module SGCM {
+	requires ListaGeneric;
+}
